@@ -1,7 +1,7 @@
 {
   "name": "@pancakefork/sdk",
   "license": "MIT",
-  "version": "2.3.4",
+  "version": "2.3.5",
   "description": "🛠 An SDK for building applications on top of Freefinance.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
